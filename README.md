@@ -4,7 +4,7 @@
 ## Introduction
 This is a power BI project on documented accounts of bigfoot sightings. The project is to analyze and derive insights from the data to answer relevant questions.
 The Data was gotten from DataDNA BigFoot Sightings Dataset Challenge.
-Disclaimer: All datasets and reports do no represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI.
+_**Disclaimer**_: All datasets and reports do no represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI.
 
 ## Problem Statement
 1. At What Weather conditions do most BigFoot Sightings occur?
