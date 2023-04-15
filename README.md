@@ -35,4 +35,4 @@ The Report Comprises of 1 Page.
 - Washington had the most recorded big foot sightings.
 - There were a total of 4983 observers across 49 states in 1036 Counties.
 
-### You can view a live version of the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzgyMTJkZGItM2RlNS00MDQzLWEzYTEtNDgxNjFhNTc5NjVjIiwidCI6Ijk5ZGRhNWRkLTYzNDYtNDc3OC04OTVmLWNkNGNiNjBhNDQxNiJ9)
+### You can view a live version of the report [here](https://app.powerbi.com/view?r=eyJrIjoiMzgyMTJkZGItM2RlNS00MDQzLWEzYTEtNDgxNjFhNTc5NjVjIiwidCI6Ijk5ZGRhNWRkLTYzNDYtNDc3OC04OTVmLWNkNGNiNjBhNDQxNiJ9)
