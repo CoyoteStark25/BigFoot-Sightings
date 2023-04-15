@@ -25,6 +25,7 @@ The following Power BI Features were incorporated:
 
 ## Visualization
 The Report Comprises of 1 Page.
+![](Big%20Foot%20Sightings.PNG)
 
 ## Some insights from the Analysis
 - The weather conditions were mostly cloudy and breezy.
@@ -33,3 +34,5 @@ The Report Comprises of 1 Page.
 - most observations were recorded in the summer.
 - Washington had the most recorded big foot sightings.
 - There were a total of 4983 observers across 49 states in 1036 Counties.
+
+### You can view a live version of the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzgyMTJkZGItM2RlNS00MDQzLWEzYTEtNDgxNjFhNTc5NjVjIiwidCI6Ijk5ZGRhNWRkLTYzNDYtNDc3OC04OTVmLWNkNGNiNjBhNDQxNiJ9)
